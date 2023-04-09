@@ -151,7 +151,7 @@ img {
     margin: 10px 0;
   }
 
-  .nav__toggle {
+  .nav-responsive__toggle {
     display: block;
   }
 
@@ -164,7 +164,7 @@ img {
     transform: rotate(90deg);
   }
 }
-.nav__responsive {
+.nav-responsive {
   background-color: #333;
   color: #fff;
   display: flex;
