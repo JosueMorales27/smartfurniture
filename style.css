@@ -13,6 +13,10 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.5;
 }
+.nav__responsive {
+  display: none;
+
+}
 
 /* Navigation styles */
 .nav {
@@ -210,6 +214,9 @@ img {
   }
   
   .show-menu {
+    display: flex;
+  }
+  .nav__responsive {
     display: flex;
   }
 }
